@@ -1,5 +1,3 @@
-// src/sie.rs
-
 use nalgebra::{Vector2, Matrix2};
 
 pub struct SIE {
